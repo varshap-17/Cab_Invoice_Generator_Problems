@@ -1,0 +1,21 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+.gradle
+.settings
+gradle
+.gitattributes
+.project
+gradlew
+gradlew
+settings.gradle
+
+#In lib ignore 
+.settings
+bin
+build
+.classpath
+.project
+build.gradle  
